@@ -1,5 +1,4 @@
-BaseDatosDocker-Datagrip
-
+Crear tu Primera Base de Datos en PostgreSQL usando Docker y DataGrip
 
 Base de Datos Docker a Data Grip
 Este documento explica de manera clara y sencilla cómo ejecutar una base de datos PostgreSQL en Docker, configurar DataGrip para conectarse a ella y crear una base de datos desde el entorno gráfico.
