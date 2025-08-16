@@ -14,7 +14,7 @@ Explicación de los parámetros:
 -e POSTGRES_USER=robin: Usuario principal de la base de datos.
 -e POSTGRES_PASSWORD=robin1710: Contraseña del usuario.
 -p 5432:5432: Mapea el puerto 5432 del contenedor al de tu máquina local.
--d postgres: Usa la imagen oficial de PostgreSQL y ejecuta en modo "detached".
+-d postgres: Usa la imagen oficial de PostgreSQL y ejecuta en modo detached.
 
 Para comprobar que el contenedor está corriendo, utiliza:
 
